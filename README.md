@@ -40,3 +40,7 @@
 *•There is room for improvement in Mandalay and Yangon city, more investment on advertisement for branches in the two cities*
  
 *•The loyalty card(members) made a little more sales in comparison to the normal customers. The total purchases made by members is $164,223 compared to $158,743 purchases made by normal customers, hence I can conclude that there’s a little differences in customers turnover.*
+
+
+#### LINKS TO TABLEAU DASHBOARD
+Click [HERE](https://public.tableau.com/app/profile/michael.willian/viz/SupermarketprojectforTech1/Dashboard1)
